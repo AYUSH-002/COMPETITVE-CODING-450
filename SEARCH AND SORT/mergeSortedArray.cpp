@@ -25,6 +25,7 @@ class Solution{
                     break;
                 }
             }
+            //isme else break ki jagah ek mei j++ bhi daal sakte hai koi farak nahi padega udhar se hata do
             sort(arr1,arr1+n);
             sort(arr2,arr2+m);
         } 
